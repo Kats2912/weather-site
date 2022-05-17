@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+This is a Weather Webapp built using Reactjs, javascript, CSS and HTML
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
